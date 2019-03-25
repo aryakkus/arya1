@@ -1,9 +1,8 @@
-//ROZERIN AKKUS
-//ID NUMBER: 260775633
+//Arya AKKUS
+/
 
 
-/* FILE: A3_solutions.c is where you will code your answers for Assignment 3.
-* 
+
 * Each of the functions below can be considered a start for you. They have 
 * the correct specification and are set up correctly with the header file to
 * be run by the tester programs.  
